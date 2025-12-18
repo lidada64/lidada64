@@ -11,7 +11,7 @@
 
 
 
-这里是lidada，一个厦门大学马来西亚分校在读计算机科学学生<br>
+___这里是lidada，一个厦门大学马来西亚分校在读大二计算机科学学生___ <br>
 
 Here’s lidada，a XMUM sophomore computer science student<br>
 
