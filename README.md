@@ -16,13 +16,13 @@ ___这里是lidada，一个厦门大学马来西亚分校在读大二计算机�
 Here’s lidada，a XMUM sophomore computer science student<br>
 
 
-- 已经学习:markdown, git ,C语言简单应用<br>
+- 已经学习:markdown, git ,C语言简单应用,基本n8n工作流搭建<br>
 Have studied: markdown, git ,C Language Basics
 
 - 正在学前端(基于vue),C++,python.<br>
 Studying Frontend(based on vue),C++,python
 
-- 单机游戏宅,爱弹吉他,偶尔健身,喜欢旅游<br>
+- 单机游戏宅,爱弹钢琴吉他,偶尔健身,喜欢旅游<br>
 A single-player game enthusiast ,loves playing guitar, occasionally works out, and enjoys traveling.
 
 - 正在探索AI领域,学习计算机知识<br>
